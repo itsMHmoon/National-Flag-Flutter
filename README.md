@@ -1,6 +1,6 @@
 # National-Flag-Flutter
 
-A basic UI project on National flag of Bangladesh, Japan and Germany.
+A basic App UI project on National flag of Bangladesh, Japan and Germany.
 
 ## Output:
 
